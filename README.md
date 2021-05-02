@@ -35,6 +35,7 @@ Hola, Soy [José Valentín](https://www.facebook.com/josevalentin.zaratecarreno/
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://getbootstrap.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="mysql" width="40" height="40"/> </a> 
 </p>
 
 
