@@ -11,10 +11,8 @@
 
 ![VISITAS](https://visitor-badge.glitch.me/badge?page_id=JoseVale99.JoseVale99)
 
-<br />
-
-Hola, Soy [José Valentín](https://www.facebook.com/josevalentin.zaratecarreno/), un apasionado estudiante de Ingeniería en Sistemas actualmente estudio en el Instituto Tecnológico de Oaxaca. Mi pasión por el desarrollo de software radica en soñar ideas y hacerlas realidad con interfaces elegantes. Me preocupo mucho por la arquitectura y la calidad del código de las cosas que construyo.
-
+<br>
+Hello, I am [José Valentín] (https://www.facebook.com/josevalentin.zaratecarreno/), a passionate student of Systems Engineering currently studying at the Instituto Tecnológico de Oaxaca. My passion for software development lies in dreaming ideas and making them come true with elegant interfaces. I care a lot about the architecture and the quality of the code of the things I build.
 
 
 
