@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm José Valentín</h1>
 
 ![VISITAS](https://visitor-badge.glitch.me/badge?page_id=JoseVale99.JoseVale99)
-https://img.shields.io/github/followers/josevale99?style=social
+(https://img.shields.io/github/followers/josevale99?style=social)
 
 <h3 align="justify">Hello, I am José Valentín a passionate student of Systems Engineering currently studying at the Instituto Tecnológico de Oaxaca. My passion for software development lies in dreaming ideas and making them come true with elegant interfaces. I care a lot about the architecture and the quality of the code of the things I build.</h3>
 
