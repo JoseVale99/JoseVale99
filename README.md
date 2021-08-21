@@ -5,7 +5,7 @@
 ![stars](https://img.shields.io/github/stars/josevale99?style=social)
 [![Instagram](https://img.shields.io/badge/-@backup_python.dev-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/backup_python.dev)](https://instagram.com/backup_python.dev)
 <a href="https://open.spotify.com/user/pepevale9903"><img src="https://img.shields.io/badge/-@Jose Vale%20ZC-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/pepevale9903" alt="Spotify Badge"></a></p>
-<img align="right" src="terminal.gif" />
+<img align="right" src="terminal.gif"  width="40%"/>
 <br>
 Hello, I am José Valentín a passionate student of Systems Engineering currently studying at the Instituto Tecnológico de Oaxaca. My passion for software development lies in dreaming ideas and making them come true with elegant interfaces. I care a lot about the architecture and the quality of the code of the things I build.
 
