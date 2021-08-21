@@ -12,7 +12,7 @@
 <div style=" text-align: justify;">
 <img align="right" src="terminal.gif"  width="40%"/>
 <br>
- <div>
+ <div style=" text-align: justify;">
 Hello, I am José Valentín a passionate student of Systems Engineering currently studying at the Instituto Tecnológico de Oaxaca. My passion for software development lies in dreaming ideas and making them come true with elegant interfaces. I care a lot about the architecture and the quality of the code of the things I build.
   <div>
  </div>
