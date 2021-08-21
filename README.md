@@ -7,7 +7,7 @@
 <a href="https://open.spotify.com/user/pepevale9903"><img src="https://img.shields.io/badge/-@Jose Vale%20ZC-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/pepevale9903" alt="Spotify Badge"></a></p>
 
 <br><br>
-<img  src="header_.png"  width="40%"/>
+<img  src="header_.png"/>
  <br><br>
 <div>
 <img align="right" src="terminal.gif"  width="40%"/>
