@@ -3,7 +3,7 @@
 ![VISITAS](https://visitor-badge.glitch.me/badge?page_id=JoseVale99.JoseVale99)
 ![Faloows](https://img.shields.io/github/followers/josevale99?style=social)
 ![stars](https://img.shields.io/github/stars/josevale99?style=social)
-![Instagram](https://img.shields.io/badge/-@backup_python.dev-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/backup_python.dev)(https://instagram.com/backup_python.dev)
+[![Instagram](https://img.shields.io/badge/-@backup_python.dev-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/backup_python.dev)](https://instagram.com/backup_python.dev)
 <br>
 Hello, I am José Valentín a passionate student of Systems Engineering currently studying at the Instituto Tecnológico de Oaxaca. My passion for software development lies in dreaming ideas and making them come true with elegant interfaces. I care a lot about the architecture and the quality of the code of the things I build.
 
