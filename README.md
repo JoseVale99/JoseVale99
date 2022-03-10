@@ -36,8 +36,10 @@ Hello, I am José Valentín a passionate student of Systems Engineering currentl
 
 
 📈 My GitHub Stats
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVale99&layout=compact&theme=gotham" alt="JoseVale99" /></p>
-
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JoseVale99&show_icons=true&theme=gotham" alt="JoseVale99" />
+  <div align="center">
+   
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVale99&layout=compact&theme=gotham" alt="JoseVale99"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JoseVale99&show_icons=true&theme=gotham" alt="JoseVale99" />
+  </div>
+ 
+ ![Snake animation](https://github.com/preethamb97/preethamb97/blob/output/github-contribution-grid-snake.svg)
