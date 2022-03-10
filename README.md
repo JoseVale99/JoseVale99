@@ -38,7 +38,7 @@ Hello, I am José Valentín a passionate student of Systems Engineering currentl
 📈 My GitHub Stats
   <div align="center">
    
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVale99&layout=compact&theme=gotham" alt="JoseVale99"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVale99&layout=compact&theme=gotham" alt="JoseVale99"/>
 <img src="https://github-readme-stats.vercel.app/api?username=JoseVale99&show_icons=true&theme=gotham" alt="JoseVale99" />
   </div>
  
