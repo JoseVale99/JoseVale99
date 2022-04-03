@@ -24,9 +24,9 @@
   <br>
 - 🌱 I’m currently learning Laravel and ML with Python
   <br>
-- 💬 Ask me anything about from <a href="ValeZarate.9903@gmail.com" title="gmail">Here</a>
+- 💬 Ask me anything about from <a href="https://t.me/valentin_99" title="gmail">Here</a>
   <br>
-- 📫 How to reach me: <a href="ValeZarate.9903@gmail.com">ValeZarate.9903@gmail.com</a>
+- 📫 How to reach me: <a href="https://t.me/valentin_99">telegram</a>
  </div>
 <br>
 <h3 align="left">You can also contact me by:</h3>
