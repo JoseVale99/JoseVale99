@@ -3,6 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I´m++José+Valentín....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+
 ![VISITAS](https://visitor-badge.glitch.me/badge?page_id=JoseVale99.JoseVale99)
 ![Faloows](https://img.shields.io/github/followers/josevale99?style=social)
 ![stars](https://img.shields.io/github/stars/josevale99?style=social)
