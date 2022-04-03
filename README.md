@@ -36,10 +36,12 @@ Hello, I am José Valentín a passionate student of Systems Engineering currentl
 
 
 📈 My GitHub Stats
-  <div align="center">
-   
-<img  width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVale99&layout=compact&theme=gotham" alt="JoseVale99"/>
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=JoseVale99&show_icons=true&theme=gotham" alt="JoseVale99" />
-  </div>
+
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVale99&layout=compact&theme=tokyonight">
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVale99&layout=compact&theme=tokyonight" alt="JoseVale99"  width="290px"/>
+</a>
+<a href="https://github-readme-stats.vercel.app/api?username=JoseVale99&show_icons=true&theme=tokyonight">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoseVale99&show_icons=true&theme=tokyonight" alt="JoseVale99" width="355px"/>
+</a>
  
  ![Snake animation](https://github.com/preethamb97/preethamb97/blob/output/github-contribution-grid-snake.svg)
