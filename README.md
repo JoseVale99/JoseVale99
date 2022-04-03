@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm José Valentín</h1>
-
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I´m++José+Valentín....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 ![VISITAS](https://visitor-badge.glitch.me/badge?page_id=JoseVale99.JoseVale99)
 ![Faloows](https://img.shields.io/github/followers/josevale99?style=social)
 ![stars](https://img.shields.io/github/stars/josevale99?style=social)
@@ -12,36 +15,58 @@
 <div style=" text-align: justify;">
 <img align="right" src="terminal.gif"  width="30%"/>
 <br>
- <div style=" text-align: justify;">
-Hello, I am José Valentín a passionate student of Systems Engineering currently studying at the Instituto Tecnológico de Oaxaca. My passion for software development lies in dreaming ideas and making them come true with elegant interfaces. I care a lot about the architecture and the quality of the code of the things I build.
-  <div>
+  Hi, I'm José Valentín, Student Computer Systems Engineering from Mexico.
+  <br>
+  <br>
+- 🔭 I'm currently studying at the Instituto Tecnológico de Oaxaca. (TECNM| OAXACA)
+  <br>
+- 💻 I love writing code and learn anythings about it
+  <br>
+- 🌱 I’m currently learning Laravel and ML with Python
+  <br>
+- 💬 Ask me anything about from <a href="ValeZarate.9903@gmail.com" title="gmail">Here</a>
+  <br>
+- 📫 How to reach me: <a href="ValeZarate.9903@gmail.com">ValeZarate.9903@gmail.com</a>
  </div>
-
-<h3 align="left">Connect with me:</h3>
+<br>
+<h3 align="left">You can also contact me by:</h3>
 <p align="left">
 <a href="https://twitter.com/zaratecarreno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zaratecarreno" height="30" width="40" /></a>
 <a href="https://fb.com/josevalentin.zaratecarreno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="josevalentin.zaratecarreno" height="30" width="40" /></a>
 <a href="https://instagram.com/backup_python.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="backup_python.dev" height="30" width="40" /></a>
 </p>
-
+<br>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
-
-
-
-
-  
-
-
+<p align="center">
+ <code><img title="Python" height="25" src="images/python-original.svg"></code>
+  <code><img title="Django" height="25" src="images/django.png"></code>
+  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+  <code><img title="Java" height="25" src="images/java-original.svg"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="PHP" height="25" src="images/php.svg"></code>
+  <code><img title="Flask" height="25" src="images/flask.png"></code>
+</p>
+<br>
 
 📈 My GitHub Stats
 
   <a align="center" href="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVale99&layout=compact&theme=tokyonight">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVale99&layout=compact&theme=tokyonight" alt="JoseVale99"  width="300px"/>
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVale99&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="JoseVale99"  width="300px"/>
 </a>
 <a href="https://github-readme-stats.vercel.app/api?username=JoseVale99&show_icons=true&theme=tokyonight">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoseVale99&show_icons=true&theme=tokyonight" alt="JoseVale99" width="365px"/>
+  <img align="center" src=https://github-readme-stats.vercel.app/api?username=JoseVale99&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="JoseVale99" width="410px"/>
 </a>
+
+<br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=JoseVale99&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+
  
- ![Snake animation](https://github.com/preethamb97/preethamb97/blob/output/github-contribution-grid-snake.svg)
+<a href="https://github.com/preethamb97/preethamb97/blob/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/preethamb97/preethamb97/blob/output/github-contribution-grid-snake.svg" />
+</a>
