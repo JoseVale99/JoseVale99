@@ -67,7 +67,7 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=JoseVale99&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
- 
+                                                                                                                                          
 <a href="https://github.com/preethamb97/preethamb97/blob/output/github-contribution-grid-snake.svg">
 <img src="https://github.com/preethamb97/preethamb97/blob/output/github-contribution-grid-snake.svg" />
 </a>
