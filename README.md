@@ -30,7 +30,9 @@
 - 📫 How to reach me: <a href="https://t.me/valentin_99">telegram</a>
  </div>
 <br>
-<h3 align="left">You can also contact me by:</h3>
+
+### You can also contact me by:
+
 <p align="left">
 <a href="https://twitter.com/zaratecarreno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zaratecarreno" height="30" width="40" /></a>
 <a href="https://fb.com/josevalentin.zaratecarreno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="josevalentin.zaratecarreno" height="30" width="40" /></a>
@@ -53,14 +55,15 @@
   <code><img title="Flask" height="25" src="images/flask.png"></code>
 </p>
 <br>
+---
 
-📈 My GitHub Stats
-<div style="margin-top: 10px;">
-<a align="center" href="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVale99&layout=compact&theme=tokyonight">
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVale99&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="JoseVale99"  width="300px"/></a><a href="https://github-readme-stats.vercel.app/api?username=JoseVale99&show_icons=true&theme=tokyonight">
-<img align="center" src=https://github-readme-stats.vercel.app/api?username=JoseVale99&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="JoseVale99" width="410px"/>
+### 📈 My GitHub Stats
+
+<a align="center" href="#">
+    <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVale99&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="my github stats" width="300"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=JoseVale99&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="languages" height="165">
+    </p>
 </a>
-</div>
 
 <br>
 <br>
