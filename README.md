@@ -55,11 +55,13 @@
 <br>
 
 📈 My GitHub Stats
-
+<div style="margin-top: 10px;">
 <a align="center" href="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVale99&layout=compact&theme=tokyonight">
-<img align="center" style=" margin-top: 20px;"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVale99&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="JoseVale99"  width="300px"/></a><a href="https://github-readme-stats.vercel.app/api?username=JoseVale99&show_icons=true&theme=tokyonight">
-<img align="center" style=" margin-top:20px;" src=https://github-readme-stats.vercel.app/api?username=JoseVale99&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="JoseVale99" width="410px"/>
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVale99&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="JoseVale99"  width="300px"/></a><a href="https://github-readme-stats.vercel.app/api?username=JoseVale99&show_icons=true&theme=tokyonight">
+<img align="center" src=https://github-readme-stats.vercel.app/api?username=JoseVale99&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="JoseVale99" width="410px"/>
 </a>
+</div>
+
 <br>
 <br>
 <br>
