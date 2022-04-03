@@ -60,7 +60,11 @@
 <img align="center" style=" margin-top: 20px;"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVale99&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="JoseVale99"  width="300px"/></a><a href="https://github-readme-stats.vercel.app/api?username=JoseVale99&show_icons=true&theme=tokyonight">
 <img align="center" style=" margin-top: 20px;" src=https://github-readme-stats.vercel.app/api?username=JoseVale99&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="JoseVale99" width="410px"/>
 </a>
-  <img  style=" margin-top: 20px;" src="https://activity-graph.herokuapp.com/graph?username=JoseVale99&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<br>
+<br>
+<br>
+<br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=JoseVale99&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
                                                                                                                                           
