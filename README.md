@@ -39,7 +39,10 @@
 <a href="https://instagram.com/backup_python.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="backup_python.dev" height="30" width="40" /></a>
 </p>
 <br>
-<h3 align="left">Languages and Tools:</h3>
+
+---
+
+### Languages and Tools:
 <p align="center">
  <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="Django" height="25" src="images/django.png"></code>
@@ -55,6 +58,7 @@
   <code><img title="Flask" height="25" src="images/flask.png"></code>
 </p>
 <br>
+
 ---
 
 ### 📈 My GitHub Stats
