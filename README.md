@@ -69,10 +69,9 @@
     </p>
 </a>
 
-<br>
-<br>
-<br>
-<br>
+---
+
+### 📉 My activity graph
   <img src="https://activity-graph.herokuapp.com/graph?username=JoseVale99&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
