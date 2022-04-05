@@ -14,7 +14,9 @@
 <img  src="header_.png"/>
  <br><br> <br><br>
 <div style=" text-align: justify;">
-<img align="right" src="terminal.gif"  width="30%"/>
+<a href="https://stackoverflow.com/users/16702971/jos%c3%a9-valent%c3%adn?tab=profile">
+<img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=16702971&theme=dark"  width="30%"/>
+</a>
 <br>
   Hi, I'm José Valentín, Student Computer Systems Engineering from Mexico.
   <br>
