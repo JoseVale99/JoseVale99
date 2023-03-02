@@ -44,7 +44,7 @@ Hi, I'm José Valentín, Student Computer Systems Engineering from Mexico.
             <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseVale99&theme=tokyonight&hide_border=false" alt="José Valentín's GitHub Stats" /></td>
         </tr>
     <tr>
-    <td align="center"d>
+    <td align="center">
   
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVale99&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="299">
     </td>
