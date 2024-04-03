@@ -57,12 +57,6 @@ Hi, I'm José Valentín, Student Computer Systems Engineering from Mexico.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 📉 My activity graph
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JoseVale99&theme=tokyo-night" width="100%"/>
-</p>
-
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=JoseVale99&icon=2&color=0)](https://visitcount.itsvg.in)
 
