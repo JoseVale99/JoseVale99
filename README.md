@@ -14,17 +14,17 @@
 </a>
 <br>
 
-Hi, I'm José Valentín, Student Computer Systems Engineering from Mexico.
-  
-- 🔭 I'm currently studying at the Instituto Tecnológico de Oaxaca. (TECNM| OAXACA)
-  <br>
-- 💻 I love writing code and learn anythings about it
-  <br>
-- 🌱 I’m currently learning Laravel and ML with Python
-  <br>
-- 💬 Ask me anything about from <a href="https://t.me/valentin_99" title="gmail">Here</a>
-  <br>
-- 📫 How to reach me: <a href="https://t.me/valentin_99">telegram</a>
+"Hi there! I'm José Valentín, a graduate of Computer Systems Engineering from Mexico.
+
+🔭 Graduated from the Instituto Tecnológico de Oaxaca (TECNM | OAXACA).
+<br>
+💻 I enjoy coding and continue to learn about various related topics.
+<br>
+🌱 Lately, I've been delving into Laravel and exploring Machine Learning with Python.
+<br>
+💬 Feel free to ask me anything <a href="https://t.me/JoseVale99" title="telegram">here</a>.
+<br>
+📫 You can reach out to me via email at valezarate.9903@gmail.com."
  </div>
 <br>
 <br>
