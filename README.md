@@ -79,8 +79,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=JoseVale99&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 <h1 align="center">
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=pepevale9903&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=pepevale9903&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true&bar_color=1a7d9e)]]
 </h1>
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=pepevale9903&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true&bar_color=1a7d9e" style="display: block; margin-left: auto; margin-right: auto;">
 
 </body>
 </html>
