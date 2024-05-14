@@ -45,16 +45,23 @@
   <a href="#"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=GitHub&logoColor=white" /></a>
 </p>
 
-<!-- Languages and Tools Section -->
 ## 💻 Languages and Tools:
 
 <p align="center">
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
-  <!-- Add more icons here -->
+      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="javascript" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="javascript" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="javascript" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="react" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
 </p>
 
-<!-- GitHub Stats Section -->
 ## 📊 GitHub Stats:
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
@@ -71,10 +78,9 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=JoseVale99&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-<!-- Random Dev Quote Section -->
-### ✍️ Random Dev Quote:
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<h1 align="center">
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=pepevale9903&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=pepevale9903&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true&bar_color=1a7d9e)]]
+</h1>
 
 </body>
 </html>
