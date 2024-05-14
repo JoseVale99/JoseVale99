@@ -1,10 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>José Valentín's GitHub Profile</title>
-</head>
 <body>
 
 <!-- Header with Typing Animation -->
