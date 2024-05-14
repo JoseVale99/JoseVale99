@@ -3,19 +3,15 @@
 <body>
 
 <!-- Header with Typing Animation -->
-<h1 align="center">
+<div align="center" style="margin-top: 10px; margin-bottom: 40px;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C+There!+%F0%9F%91%8B;I%27m+Jos%C3%A9+Valent%C3%ADn....;Nice+to+meet+you%21&center=true&size=30" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C+There!+%F0%9F%91%8B;I%27m+Jos%C3%A9+Valent%C3%ADn....;Nice+to+meet+you%21&center=true&size=30"/>
   </a>
-</h1>
+</div>
 
 <!-- About Me Section -->
-<div align="justify">
-  <br><br>
-  <img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=16702971&theme=dark" width="200px" />
-  
-  # 💫 About Me:
-  
+# 💫 About Me:
+
   Hi there! I'm José Valentín, a Computer Systems Engineering graduate from Mexico, currently working as a frontend developer.
   
   🔭 Graduated from the Instituto Tecnológico de Oaxaca (TECNM | OAXACA).
@@ -27,9 +23,8 @@
   💬 Feel free to reach out to me on <a href="https://t.me/JoseVale99" title="telegram">Telegram</a> if you have any questions.
   <br>
   📫 You can also contact me via email at valezarate.9903@gmail.com.
-  
-  <br><br><br><br>
-</div>
+  <br>
+  <br>
 
 <!-- Socials Section -->
 ## 🌐 Socials:
