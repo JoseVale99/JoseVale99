@@ -49,10 +49,6 @@ Hi there! I'm José Valentín, a Computer Systems Engineering graduate from Mexi
 
 ![](https://github-profile-trophy.vercel.app/?username=JoseVale99&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet:
-
-[![](https://gtce.itsvg.in/api?username=ZarateCarreno&theme=algolia)](https://twitter.com/ZarateCarreno)
-
 ### ✍️ Random Dev Quote:
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
