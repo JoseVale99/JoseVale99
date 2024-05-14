@@ -64,9 +64,9 @@
 
 ## 📊 GitHub Stats:
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+<table align="center" cellpadding="0" cellspacing="0">
     <thead>
-        <tr>
+        <tr style="text-align: center;">
             <td><img src="https://github-readme-stats.vercel.app/api?username=JoseVale99&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" alt="José Valentín's GitHub Stats" /></td>
             <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseVale99&theme=tokyonight&hide_border=false" alt="José Valentín's GitHub Stats" /></td>
         </tr>        
