@@ -80,7 +80,7 @@
 
 <h1 align="center">
 </h1>
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=pepevale9903&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true&bar_color=1a7d9e" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=pepevale9903&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true&bar_color=1a7d9e" style="width: 100%; height: auto; display: block;">
 
 </body>
 </html>
