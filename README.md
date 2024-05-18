@@ -78,7 +78,7 @@
 
 <div align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=pepevale9903&redirect=true">
-  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=pepevale9903&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true&bar_color=1a7d9e">
+  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=pepevale9903&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true&bar_color=1a7d9e">
   </a>
 </div>
 
