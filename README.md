@@ -12,7 +12,7 @@
 <!-- About Me Section -->
 # 💫 About Me:
 
-  Hi there! I'm José Valentín, a Computer Systems Engineering graduate from Mexico, currently working as a frontend developer.
+  Hi there! I'm José Valentín, a Computer Systems Engineering graduate from the Instituto Tecnológico de Oaxaca, currently working as a frontend developer.
   
   🔭 Graduated from the Instituto Tecnológico de Oaxaca (TECNM | OAXACA).
   <br>
