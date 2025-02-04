@@ -14,12 +14,16 @@
 
   Hi there! I'm José Valentín, a Computer Systems Engineering graduate from the Instituto Tecnológico de Oaxaca, currently working as a frontend developer.
   
-  🔭 Graduated from the Instituto Tecnológico de Oaxaca (TECNM | OAXACA).
+   🎓 Studied Computer Systems Engineering at the Instituto Tecnológico de Oaxaca (TECNM | OAXACA).
+  <br>
+  🌟 I'm a passionate frontend developer with a strong focus on web development, specifically in the areas of HTML, CSS, and JavaScript.
+  <br>
+  🌱 Currently working as a frontend developer at <a href="http://www.solucionesgenus.com/quienes-somos/" title="Soluciones Genus">Soluciones Genus</a>
   <br>
   💻 As a frontend developer, I enjoy coding and continually expanding my knowledge in various related fields.
   <br>
-  🌱 Lately, I've been exploring Laravel and diving into Machine Learning with Python.
-  <br>
+  📚 I'm always eager to learn and stay up-to-date with the latest trends and technologies in the field of frontend development
+  <br.
   💬 Feel free to reach out to me on <a href="https://t.me/JoseVale99" title="telegram">Telegram</a> if you have any questions.
   <br>
   📫 You can also contact me via email at valezarate.9903@gmail.com.
