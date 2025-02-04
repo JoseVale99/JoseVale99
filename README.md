@@ -83,7 +83,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg"></a>
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Thanks+for+visiting&center=true&size=30"/>
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Thanks+for+visiting&center=true&size=20"/>
   </a>
 </h1>
 
