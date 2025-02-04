@@ -62,8 +62,12 @@
 <table align="center" cellpadding="0" cellspacing="0">
     <thead>
         <tr style="text-align: center;">
-            <td><img src="https://github-readme-stats.vercel.app/api?username=JoseVale99&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" alt="José Valentín's GitHub Stats" /></td>
-            <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseVale99&theme=tokyonight&hide_border=false" alt="José Valentín's GitHub Stats" /></td>
+            <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=JoseVale99&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="José Valentín's GitHub Stats" />
+            </td>
+            <td>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseVale99&theme=blue_navy&hide_border=true" alt="José Valentín's GitHub Stats" />
+            </td>
         </tr>        
     </thead>
 </table>
@@ -73,12 +77,15 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=JoseVale99&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-<h1 align="center">
-</h1>
 
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=pepevale9903&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile">
-</p>
+<p align="center" style="margin-top: 40px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseVale99&theme=tokyo-night" alt="José Valentín's GitHub Activity Graph" />
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Thanks+for+visiting&center=true&size=30"/>
+  </a>
+</h1>
 
 </body>
 </html>
