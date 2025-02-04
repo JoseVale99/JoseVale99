@@ -84,9 +84,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseVale99&theme=tokyo-night" alt="José Valentín's GitHub Activity Graph" />
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"></a>
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Thanks+for+visiting&center=true&size=20"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Thanks+for+visiting!&center=true&size=20"/>
 </h1>
 
 </body>
