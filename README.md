@@ -61,10 +61,14 @@
 
 ## 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseVale99&theme=blue_navy&hide_border=true" alt="GitHub Streak Stats" height="180"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoseVale99&theme=blue_navy&hide_border=true&show_icons=true" alt="GitHub Stats" height="180"/>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseVale99&theme=blue_navy&hide_border=true" alt="GitHub Streak Stats"/></td>
+      <td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoseVale99&theme=blue_navy&hide_border=true&show_icons=true&bg_color=0d1117" alt="GitHub Stats"/></td>
+    </tr>
+  </table>
+</div>
 
 <!-- GitHub Trophies Section -->
 ## 🏆 GitHub Trophies:
