@@ -46,46 +46,77 @@ const jose = {
   
 </div>
 
-## 💻 Languages and Tools:
+---
 
-<p align="center">
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"alt="django" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-</p>
-
-## 📊 GitHub Stats:
+## 🛠️ Tech Stack
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseVale99&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/></td>
-      <td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoseVale99&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats"/></td>
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0" style="border: none;">
+    <tr style="border: none;">
+      <td style="border: none;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseVale99&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/></td>
+      <td style="border: none;"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoseVale99&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats"/></td>
     </tr>
   </table>
 </div>
 
-<!-- GitHub Trophies Section -->
-## 🏆 GitHub Trophies:
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoseVale99&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
+</div>
 
-![](https://github-profile-trophy.vercel.app/?username=JoseVale99&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+---
 
+## 🏆 GitHub Trophies
 
-<p align="center" style="margin-top: 40px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseVale99&theme=tokyo-night" alt="José Valentín's GitHub Activity Graph" />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JoseVale99&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=4" alt="GitHub Trophies"/>
+</div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Thanks+for+visiting!&center=true&size=20"/>
-</h1>
+---
 
-</body>
-</html>
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseVale99&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Feel+free+to+reach+out!;Let's+build+something+amazing!" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=JoseVale99&color=58a6ff&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+</div>
