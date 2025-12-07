@@ -48,8 +48,7 @@ const jose = {
 
 ---
 
-<details open>
-<summary><h2>🛠️ Tech Stack</h2></summary>
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -83,8 +82,6 @@ const jose = {
 
 </div>
 
-</details>
-
 ---
 
 ## 📊 GitHub Stats
@@ -104,25 +101,19 @@ const jose = {
 
 ---
 
-<details>
-<summary><h2>🏆 GitHub Trophies</h2></summary>
+## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JoseVale99&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=4" alt="GitHub Trophies"/>
 </div>
 
-</details>
-
 ---
 
-<details>
-<summary><h2>📈 Contribution Graph</h2></summary>
+## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseVale99&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </div>
-
-</details>
 
 ---
 
