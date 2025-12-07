@@ -61,13 +61,10 @@
 
 ## 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseVale99&theme=blue_navy&hide_border=true" alt="José Valentín's GitHub Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVale99&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="José Valentín's Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseVale99&theme=blue_navy&hide_border=true" alt="GitHub Streak Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JoseVale99&theme=blue_navy&hide_border=true&show_icons=true" alt="GitHub Stats" height="180"/>
+</p>
 
 <!-- GitHub Trophies Section -->
 ## 🏆 GitHub Trophies:
