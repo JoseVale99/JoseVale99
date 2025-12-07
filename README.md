@@ -61,22 +61,13 @@
 
 ## 📊 GitHub Stats:
 
-<table align="center" cellpadding="0" cellspacing="0" style="border: none;">
-  <thead>
-    <tr style="text-align: center;">
-      <td style="border: none;">
-        <a href="https://github-readme-stats.vercel.app/api?username=JoseVale99&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&show_icons=true">
-          <img src="https://github-readme-stats.vercel.app/api?username=JoseVale99&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="José Valentín's GitHub Stats" />
-        </a>
-      </td>
-      <td style="border: none;">
-        <a href="https://github-readme-streak-stats.herokuapp.com/?user=JoseVale99&theme=blue_navy&hide_border=true">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseVale99&theme=blue_navy&hide_border=true" alt="José Valentín's GitHub Streak Stats" />
-        </a>
-      </td>
-    </tr>        
-  </thead>
-</table>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseVale99&theme=blue_navy&hide_border=true" alt="José Valentín's GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVale99&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="José Valentín's Top Languages" />
+</div>
 
 <!-- GitHub Trophies Section -->
 ## 🏆 GitHub Trophies:
