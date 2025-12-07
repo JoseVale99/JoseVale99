@@ -33,8 +33,7 @@ const jose = {
 
 ---
 
-<details>
-<summary><h2>🌐 Connect With Me</h2></summary>
+## 🌐 Connect With Me
 
 <div align="center">
   
@@ -46,8 +45,6 @@ const jose = {
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/100084231650990)
   
 </div>
-
-</details>
 
 ---
 
