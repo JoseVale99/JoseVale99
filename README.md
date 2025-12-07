@@ -33,7 +33,8 @@ const jose = {
 
 ---
 
-## 🌐 Connect With Me
+<details>
+<summary><h2>🌐 Connect With Me</h2></summary>
 
 <div align="center">
   
@@ -46,19 +47,24 @@ const jose = {
   
 </div>
 
+</details>
+
 ---
 
-## 🛠️ Tech Stack
+<details open>
+<summary><h2>🛠️ Tech Stack</h2></summary>
 
 <div align="center">
 
 ### Frontend
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### Backend
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -67,16 +73,20 @@ const jose = {
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ### Database
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools & Others
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
+
+</details>
 
 ---
 
@@ -97,19 +107,25 @@ const jose = {
 
 ---
 
-## 🏆 GitHub Trophies
+<details>
+<summary><h2>🏆 GitHub Trophies</h2></summary>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JoseVale99&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=4" alt="GitHub Trophies"/>
 </div>
 
+</details>
+
 ---
 
-## 📈 Contribution Graph
+<details>
+<summary><h2>📈 Contribution Graph</h2></summary>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseVale99&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </div>
+
+</details>
 
 ---
 
