@@ -33,7 +33,9 @@ const jose = {
 
 ---
 
-## 🌐 Connect With Me
+<details>
+<summary>🌐 Connect With Me</summary>
+<br>
 
 <div align="center">
   
@@ -46,9 +48,13 @@ const jose = {
   
 </div>
 
+</details>
+
 ---
 
-## 🛠️ Tech Stack
+<details open>
+<summary>🛠️ Tech Stack</summary>
+<br>
 
 <div align="center">
 
@@ -82,6 +88,8 @@ const jose = {
 
 </div>
 
+</details>
+
 ---
 
 ## 📊 GitHub Stats
@@ -101,19 +109,27 @@ const jose = {
 
 ---
 
-## 🏆 GitHub Trophies
+<details>
+<summary>🏆 GitHub Trophies</summary>
+<br>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JoseVale99&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=4" alt="GitHub Trophies"/>
 </div>
 
+</details>
+
 ---
 
-## 📈 Contribution Graph
+<details>
+<summary>📈 Contribution Graph</summary>
+<br>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseVale99&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </div>
+
+</details>
 
 ---
 
