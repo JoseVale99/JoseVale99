@@ -93,11 +93,12 @@ const jose = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoseVale99&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVale99&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=JoseVale99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVale99&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/></td>
+</tr>
+</table>
 </div>
 
 ---
