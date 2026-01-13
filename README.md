@@ -90,40 +90,11 @@ const jose = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td><a href="https://github.com/JoseVale99"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoseVale99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/></a></td>
-<td><a href="https://github.com/JoseVale99"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JoseVale99&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/></a></td>
-</tr>
-</table>
-</div>
-
----
-
-<details>
-<summary>🏆 GitHub Trophies</summary>
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JoseVale99&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=4" alt="GitHub Trophies"/>
-</div>
-
-</details>
-
----
-
-<details>
-<summary>📈 Contribution Graph</summary>
-<br>
+## 📊 GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseVale99&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </div>
-
-</details>
 
 ---
 
