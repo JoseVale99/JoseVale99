@@ -18,7 +18,6 @@
 const jose = {
     location: "Oaxaca, México",
     education: "Computer Systems Engineering @ TECNM",
-    currentRole: "Frontend Developer @ Soluciones Genus",
     interests: ["Web Development", "UI/UX", "Open Source"],
     technologies: {
         frontend: ["HTML", "CSS", "JavaScript", "Angular"],
@@ -26,8 +25,7 @@ const jose = {
         databases: ["MySQL", "PostgreSQL"],
         tools: ["Git", "Docker", "VS Code"]
     },
-    currentlyLearning: "Modern Frontend Frameworks & Cloud Technologies",
-    funFact: "I love solving problems and building elegant solutions"
+    currentlyLearning: "Modern Frontend Frameworks & Cloud Technologies"
 };
 ```
 
@@ -95,16 +93,11 @@ const jose = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" style="border: none;">
-    <tr style="border: none;">
-      <td style="border: none;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseVale99&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/></td>
-      <td style="border: none;"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoseVale99&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats"/></td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=JoseVale99&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoseVale99&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVale99&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
 </div>
 
 ---
