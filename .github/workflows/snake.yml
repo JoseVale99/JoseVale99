@@ -1,0 +1,31 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate snake.svg
+        uses: Platane/snk@v3
+        with:
+          github_user_name: JoseVale99
+          outputs: |
+            dist/snake.svg?color_snake=4f46e5&color_dots=e2e8f0,cbd5e1,818cf8,4f46e5,06b6d4
+            dist/snake-dark.svg?color_snake=22d3ee&color_dots=0d1117,161b22,22d3ee,818cf8,a78bfa
+
+      - name: Publish to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          publish_branch: output
+          publish_dir: ./dist
+          github_token: ${{ secrets.GITHUB_TOKEN }}
