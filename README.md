@@ -167,9 +167,9 @@ const jose = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoseVale99&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseVale99&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVale99&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-rho.vercel.app/api?username=JoseVale99&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=JoseVale99&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-rho.vercel.app/api/top-langs/?username=JoseVale99&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
 ---
@@ -179,7 +179,7 @@ const jose = {
 *Auto-updated — no setup required.*
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JoseVale99&theme=tokyonight&no-bg=true&no-frame=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=JoseVale99&theme=tokyonight&no-bg=true&no-frame=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
