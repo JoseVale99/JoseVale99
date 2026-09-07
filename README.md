@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&pause=1000&color=00B140&center=true&vCenter=true&width=650&height=70&lines=Full+Stack+Software+Engineer+%F0%9F%9A%80;Laravel+%2F+PHP+%7C+Angular+%2F+TypeScript;Lifecycle+of+critical+government+systems+%F0%9F%8F%9B%EF%B8%8F;Oaxaca,+M%C3%A9xico+%F0%9F%87%B2%F0%9F%87%BD;4%2B+years+%F0%9F%93%8D%EF%B8%8F&pause=1500" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&pause=1000&color=00B140&center=true&vCenter=true&width=650&height=70&lines=Full+Stack+Software+Engineer+%F0%9F%9A%80;Laravel+%2F+PHP+%7C+Angular+%2F+TypeScript;Building+critical+government+systems+%F0%9F%8F%9B%EF%B8%8F;Oaxaca,+M%C3%A9xico+%F0%9F%87%B2%F0%9F%87%BD;4%2B+years+%26+counting%F0%9F%93%8D%EF%B8%8F&pause=1500" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -22,20 +22,20 @@
 
 ## 👨‍💻 About Me
 
-Ingeniero de Software Full Stack con más de **4 años de experiencia** desarrollando aplicaciones web empresariales con **Laravel, PHP, Angular, TypeScript, SQL y APIs REST**. Experiencia construyendo sistemas desde cero, optimizando el rendimiento de aplicaciones y bases de datos, implementando autenticación y autorización, testing automatizado y despliegues en producción.
+Full Stack Software Engineer with **4+ years of experience** building enterprise web applications with **Laravel, PHP, Angular, TypeScript, SQL, and REST APIs**. Experience delivering systems from scratch, optimizing application and database performance, implementing authentication and authorization, automated testing, and production deployments.
 
-Historial comprobado de mejoras de rendimiento de hasta **70%**, liderazgo de equipos frontend de **4 desarrolladores** y desarrollo de sistemas empresariales y gubernamentales utilizados por **15+ municipios**.
+Proven track record of up to **70% performance improvements**, leading **4-developer frontend teams**, and building enterprise and government systems used by **15+ municipalities**.
 
 ---
 
 ## 🏛️ What I Build
 
-Especialista en **sistemas gubernamentales y empresariales** donde la confiabilidad, seguridad y rendimiento son innegociables:
+Specialist in **government and enterprise systems** where reliability, security, and performance are non-negotiable:
 
-- **Sistemas catastrales y municipales** — gestión catastral, plataformas operativas y sistemas ciudadanos para 15+ municipios
-- ** APIs y servicios backend** — Laravel 12 / PHP 8.2, OAuth2 (Laravel Passport), RBAC (Spatie Permissions), integraciones Resend/AWS SES
-- **Frontend a escala** — Angular 22, TypeScript, RxJS, Signals; arquitecturas PWA offline-first
-- **Optimización de rendimiento** — tuning de queries, lazy loading, análisis de bundles; hasta **+60% de mejora** en frontend y **-70% en tiempo de SQL**
+- **Cadastral & municipal systems** — land registry, operations platforms, and citizen-facing services for 15+ municipalities
+- **REST APIs & backend services** — Laravel 12 / PHP 8.2, OAuth2 (Laravel Passport), RBAC (Spatie Permissions), Resend/AWS SES integrations
+- **Frontend at scale** — Angular 22, TypeScript, RxJS, Signals; PWA offline-first architectures
+- **Performance optimization** — query tuning, lazy loading, bundle analysis; up to **+60% frontend improvement** and **-70% SQL runtime**
 
 ---
 
@@ -126,6 +126,8 @@ Especialista en **sistemas gubernamentales y empresariales** donde la confiabili
 
 ---
 
+---
+
 ## 💼 Experience
 
 <details>
@@ -133,17 +135,68 @@ Especialista en **sistemas gubernamentales y empresariales** donde la confiabili
 <br>
 
 **💼 Full Stack Developer** — *Unlimited Innovations* · `Feb 2026 - Present`
-- REST APIs with **Laravel 12 / PHP 8.2**, OAuth2 with **Laravel Passport**, RBAC with **Spatie Permission**
-- Executive dashboards, PDF/Excel reports, AWS SES email flows, i18n ES/EN and PHPUnit tests
+- Built the administrative and operational platform for **Unlimited Group** and **HJH** with **Laravel 12, PHP 8.2, MySQL, SQL Server, and Docker**
+- **OAuth2 with Laravel Passport** + synchronized sessions across devices + persistent ES/EN i18n per user
+- **RBAC with Spatie Permission** — permission-filtered menus, client & user catalogs, server-side pagination, audit trails
+- **Billing module** on HJH's SQL Server database: filters, statistics, bulk credits, Excel export, automatic packaging (crating) calculation with SLAM costs — in production since June 2026
+- **Executive dashboard** for HJH leadership: monthly collection metrics, exportable reports, automated weekly emails for pending invoices
+- **Resend integration** for invoice emails with per-client Bill To contacts and send history
+- **Freight module**: SLAM validation, freight-invoice linking, cost distribution by weight
+- **SOIA integration** for customs operations: bulk Excel import, automated email alerts on status changes
+- Production deployment with **forced HTTPS**, session sync, and emails on the corporate domain
 
 **🏛️ Senior Full Stack & Frontend Team Lead** — *Soluciones Genus®* · `Jun 2023 - Dec 2025`
-- Led a frontend team of **4 developers**, built **8+ cadastral systems** for **15+ municipalities**
-- **+60% performance**, **-70% SQL query time**, **99.9% uptime** on mission-critical systems
+- Led and mentored a **4-developer frontend team**, establishing code standards and best practices
+- Developed and maintained **8+ cadastral management systems** based on Genus Server® SIG Catastral with **Angular, Spring Boot, and PostgreSQL**
+- **+60% performance improvement** through frontend and application optimization
+- **Automated testing with Jest** for Angular components and interface validation
+- Critical systems for domain transfer, tax reconciliation, and cadastral processes used by **15+ municipalities**
+- Scalable frontend architectures with **Angular, Vue.js, jQuery, Angular Material, and Tailwind CSS**
+- Production deployments with **Docker, Nginx, and Apache Tomcat** on Linux servers
 
 **🛠️ Full Stack Developer** — *Visor US* · `Jun 2022 - May 2023`
-- Refactored legacy ERPs, optimized database queries **-70%**, built government systems with **Laravel + Livewire**
+- Complete refactor of **legacy ERP systems** with Laravel, PHP, and MySQL — improved stability and maintainability
+- **SQL query optimization: -70% response times** in critical modules
+- **Unit testing with PHPUnit** and integration tests for Laravel APIs
+- **CMG System** (Government Monitoring Center): citizen reports for public services
+- **Civil Guard management system**: personnel, inventory, operational resources, patrol control, and assignments
+- **Advanced analytical dashboards** with statistical charts and real-time performance metrics
+- Integration of **Livewire, AdminLTE** and automated PDF report generation
 
 </details>
+
+---
+
+## 📊 Skills
+
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | PHP, TypeScript, JavaScript, SQL, HTML5, CSS3 |
+| **Frontend** | Angular, Vue.js, jQuery, Angular Material, Tailwind CSS, Bootstrap, Livewire, Responsive Design |
+| **Backend** | Laravel 12, PHP 8.2, Spring Boot, REST APIs, Laravel Passport, OAuth2, Spatie Permission, Eloquent ORM |
+| **Databases** | SQL Server, PostgreSQL, MySQL, JPA, Hibernate, Database Design |
+| **Testing** | PHPUnit, Jest, Unit Testing, Integration Testing, Automated Testing |
+| **DevOps** | Docker, Linux, Nginx, Apache Tomcat, CI/CD, Git, GitHub, GitLab, Vite, Maven |
+| **Practices** | Agile, Scrum, Code Review, Refactoring, Performance Optimization, Software Architecture, Team Leadership, Mentoring |
+
+---
+
+## 🎓 Education
+
+**Bachelor's in Computer Systems Engineering**
+*Instituto Tecnológico de Oaxaca (ITO)* · Oaxaca, México
+`Aug 2017 – Dec 2022`
+
+- **Specialization:** Emerging Software Technologies
+
+---
+
+## 🌐 Languages
+
+| Language | Level |
+|----------|-------|
+| **Spanish** | Native |
+| **English** | Intermediate — B2 |
 
 ---
 
@@ -166,90 +219,6 @@ Especialista en **sistemas gubernamentales y empresariales** donde la confiabili
 | **GitHub** | [JoseVale99](https://github.com/JoseVale99) |
 
 </div>
-
----
-
-## 🎓 Education
-
-**Licenciatura en Ingeniería en Sistemas Computacionales**
-*Instituto Tecnológico de Oaxaca (ITO)* · Oaxaca, México
-`Aug 2017 – Dec 2022`
-
-- **Especialidad:** Tecnologías de Software Emergente
-- **Proyecto de titulación:** Marketplace de Productores Regionales (IDMarket)
-
----
-
-## 💼 Experience
-
-<details>
-<summary><b>Professional Journey — Click to expand</b></summary>
-<br>
-
-**💼 Full Stack Developer** — *Unlimited Innovations* · `Feb 2026 - Present`
-- Plataforma administrativa y operativa para Unlimited Group y HJH con **Laravel 12, PHP 8.2, MySQL, SQL Server y Docker**
-- **OAuth2 con Laravel Passport** + sesiones sincronizadas entre dispositivos + i18n ES/EN persistente
-- **RBAC con Spatie Permission** — menús filtrados por permisos, catálogos de clientes/usuarios, paginación server-side, auditoría
-- **Módulo de facturación** sobre SQL Server de HJH: filtros, estadísticas, créditos masivos, exportación a Excel, cálculo automático de embalaje (crating) con costos SLAM — en producción desde junio 2026
-- **Dashboard ejecutivo** para dirección de HJH: métricas de cobranza mensual, reportes exportables, correos semanales automáticos de facturas pendientes
-- **Integración Resend** para envío de facturas con contactos Bill To por cliente e historial de envíos
-- **Módulo de Fletes**: validación contra SLAM, vinculación fletes-facturas, distribución de costos por peso
-- **SOIA** para operaciones aduanales: importación masiva desde Excel, alertas automáticas por correo ante cambios de estatus
-- Despliegue en producción con **HTTPS forzado**, sincronización de sesiones y envío de correos en dominio corporativo
-
-**🏛️ Senior Full Stack & Frontend Team Lead** — *Soluciones Genus®* · `Jun 2023 - Dec 2025`
-- Liderazgo y mentoría de **4 desarrolladores frontend**, estableciendo estándares de código y mejores prácticas
-- Desarrollo y mantenimiento de **8+ sistemas de gestión catastral** basados en Genus Server® SIG Catastral con **Angular, Spring Boot y PostgreSQL**
-- **+60% de mejora de rendimiento** mediante optimización frontend y de aplicaciones
-- **Testing automatizado con Jest** para componentes Angular y validación de interfaces
-- Sistemas críticos para traslado de dominio, conciliación fiscal y procesos catastrales usados por **15+ municipios**
-- Arquitecturas frontend escalables con **Angular, Vue.js, jQuery, Angular Material y Tailwind CSS**
-- Despliegues en producción con **Docker, Nginx y Apache Tomcat** en servidores Linux
-
-**🛠️ Full Stack Developer** — *Visor US* · `Jun 2022 - May 2023`
-- Refactorización completa de sistemas **ERP legacy** con Laravel, PHP y MySQL — mejora de estabilidad y mantenibilidad
-- **Optimización de consultas SQL: -70% en tiempos de respuesta** en módulos críticos
-- **Pruebas unitarias con PHPUnit** y pruebas de integración para APIs de Laravel
-- **Sistema CMG** (Centro de Monitoreo Gubernamental): reportes ciudadanos de servicios públicos
-- **Sistema de gestión Guardia Civil**: personal, inventario, recursos operativos, control de patrullas y asignaciones
-- **Dashboards analíticos** con gráficos estadísticos y métricas de rendimiento en tiempo real
-- Integración de **Livewire, AdminLTE** y generación automatizada de reportes PDF
-
-</details>
-
----
-
-## 📊 Skills
-
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | PHP, TypeScript, JavaScript, SQL, HTML5, CSS3 |
-| **Frontend** | Angular, Vue.js, jQuery, Angular Material, Tailwind CSS, Bootstrap, Livewire, Responsive Design |
-| **Backend** | Laravel 12, PHP 8.2, Spring Boot, REST APIs, Laravel Passport, OAuth2, Spatie Permission, Eloquent ORM |
-| **Databases** | SQL Server, PostgreSQL, MySQL, JPA, Hibernate, Database Design |
-| **Testing** | PHPUnit, Jest, Unit Testing, Integration Testing, Automated Testing |
-| **DevOps** | Docker, Linux, Nginx, Apache Tomcat, CI/CD, Git, GitHub, GitLab, Vite, Maven |
-| **Practices** | Agile, Scrum, Code Review, Refactoring, Performance Optimization, Software Architecture, Team Leadership, Mentoring |
-
----
-
-## 🚀 Projects
-
-### IDMarket — Marketplace de Productores Regionales
-*Proyecto de Residencias Profesionales | IIDTEC* · `Jan 2022 – Jun 2022`
-
-- Marketplace full stack con **Laravel, PHP y Bootstrap**
-- Integración de pagos con **PayPal** y funcionalidad de carrito de compras
-- Panel administrativo con **Voyager CMS**, componentes reactivos con **Livewire** y testing con **PHPUnit**
-
----
-
-## 🌐 Languages
-
-| Language | Level |
-|----------|-------|
-| **Español** | Native |
-| **English** | Intermediate — B2 |
 
 ---
 
