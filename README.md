@@ -137,7 +137,9 @@ Specialist in **government and enterprise systems** where reliability, security,
 
 ---
 
-## Skills
+<details>
+<summary><b>Skills — Click to expand</b></summary>
+<br>
 
 | Category | Technologies |
 |----------|-------------|
@@ -149,9 +151,13 @@ Specialist in **government and enterprise systems** where reliability, security,
 | **DevOps** | Docker, Linux, Nginx, Apache Tomcat, CI/CD, Git, GitHub, GitLab, Vite, Maven |
 | **Practices** | Agile, Scrum, Code Review, Refactoring, Performance Optimization, Software Architecture, Team Leadership, Mentoring |
 
+</details>
+
 ---
 
-## Education
+<details>
+<summary><b>Education — Click to expand</b></summary>
+<br>
 
 **Bachelor's in Computer Systems Engineering**
 *Instituto Tecnológico de Oaxaca (ITO)* · Oaxaca, México
@@ -159,14 +165,20 @@ Specialist in **government and enterprise systems** where reliability, security,
 
 - **Specialization:** Emerging Software Technologies
 
+</details>
+
 ---
 
-## Languages
+<details>
+<summary><b>Languages — Click to expand</b></summary>
+<br>
 
 | Language | Level |
 |----------|-------|
 | **Spanish** | Native |
 | **English** | Intermediate — B2 |
+
+</details>
 
 ---
 
