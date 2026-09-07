@@ -1,58 +1,50 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=70&lines=Senior+Full+Stack+Developer+%F0%9F%9A%80;Laravel+%2B+Angular+%7C+Team+Lead;Building+critical+systems+for+government+%F0%9F%8F%9B%EF%B8%8F;Oaxaca,+M%C3%A9xico+%F0%9F%87%B2%F0%9F%87%BD;Open+to+new+opportunities+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&pause=1000&color=00B140&center=true&vCenter=true&width=650&height=70&lines=Senior+Full+Stack+Developer+%F0%9F%9A%80;Laravel+%2B+Angular+%7C+Team+Lead;Building+critical+systems+for+government+%F0%9F%8F%9B%EF%B8%8F;Oaxaca,+M%C3%A9xico+%F0%9F%87%B2%F0%9F%87%BD;Open+to+new+opportunities+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-OPEN%20TO%20WORK-22d3ee?style=for-the-badge&logo=vercel&logoColor=white" alt="Open to work" />
-  <img src="https://komarev.com/ghpvc/?username=JoseVale99&color=58a6ff&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Status-OPEN%20TO%20WORK-00B140?style=for-the-badge&logo=vercel&logoColor=white" alt="Open to work" />
+  <img src="https://komarev.com/ghpvc/?username=JoseVale99&color=00B140&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-valentin-zc/)
-[![Portafolio](https://img.shields.io/badge/Portafolio-818cf8?style=for-the-badge&logo=vercel&logoColor=white)](https://jose-valentin-zc.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valezarate.9903@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JoseVale99)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5219511853129)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-valentin-zc/)
+[![Portafolio](https://img.shields.io/badge/Portafolio-00B140?style=for-the-badge&logo=vercel&logoColor=white)](https://jose-valentin-zarate.dev.ar/)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valezarate.9903@gmail.com)
 
 </div>
 
 ---
 
+---
+
 ## 👨‍💻 About Me
 
-I'm a **Senior Full Stack Developer** specialized in **Laravel + Angular**, leading frontend teams and building **mission-critical systems for municipal governments**.
+I'm a **Senior Full Stack Developer** specialized in **Laravel + Angular**, leading frontend teams and building **mission-critical systems for municipal governments** across Mexico. My focus is delivering high-availability, performant platforms that serve real users in the public sector.
 
-<div align="center">
+**At a glance:**
 
-[![Experience](https://img.shields.io/badge/3%2B-A%C3%B1os%20de%20Experiencia-22d3ee?style=flat-square&labelColor=0d1117)](https://github.com/JoseVale99)
-[![Systems](https://img.shields.io/badge/8%2B-Sistemas%20Desarrollados-818cf8?style=flat-square&labelColor=0d1117)](https://github.com/JoseVale99)
-[![Performance](https://img.shields.io/badge/60%25-Mejoras%20de%20Rendimiento-34d399?style=flat-square&labelColor=0d1117)](https://github.com/JoseVale99)
-[![Uptime](https://img.shields.io/badge/99.9%25-Disponibilidad-60a5fa?style=flat-square&labelColor=0d1117)](https://github.com/JoseVale99)
+| Area | Detail |
+|------|-------|
+| **Role** | Senior Full Stack Developer / Frontend Team Lead |
+| **Core Stack** | Laravel (PHP 8.2+), Angular, TypeScript, RxJS |
+| **Experience** | 3+ years professional, 8+ systems delivered |
+| **Leadership** | Frontend Team Lead — 4 developers |
+| **Impact** | +60% performance · -70% SQL query time · 99.9% uptime |
+| **Current focus** | GOS Operations Platform — Laravel 12 + PHP 8.2 |
+| **Location** | Oaxaca, México 🇲🇽 · 100% Remote |
 
-</div>
+---
 
-```javascript
-const jose = {
-  name: "José Valentín Zárate Carreño",
-  role: "Senior Full Stack Developer",
-  stack: "Laravel + Angular",
-  location: "Oaxaca, México 🇲🇽",
-  focus: "Critical government systems",
-  experience: "3+ years",
-  leadership: "Frontend Team Lead — 4 developers",
-  impact: {
-    performance: "+60%",
-    systemsBuilt: "8+",
-    sqlOptimization: "-70%",
-    uptime: "99.9%",
-    municipalities: "15+"
-  },
-  currently: "GOS Operations Platform — Laravel 12 + PHP 8.2",
-  openToWork: true,
-  remote: "100% Remote"
-};
-```
+## 🏛️ What I Build
+
+I specialize in **government and enterprise systems** where reliability, security, and performance matter:
+
+- **Cadastral & municipal systems** — land registry, operations platforms, and citizen-facing services for 15+ municipalities
+- **REST APIs & backend services** — Laravel 12 / PHP 8.2, OAuth2 (Laravel Passport), RBAC (Spatie Permissions), AWS SES integrations
+- **Frontend at scale** — Angular 22, TypeScript, RxJS, Signals; PWA offline-first architectures
+- **Performance optimization** — query tuning, lazy loading, bundle analysis; delivering up to **+60% performance gains** and **-70% SQL runtime**
 
 ---
 
@@ -107,37 +99,37 @@ const jose = {
 <div align="center">
 
 ### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=rxjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-00B140?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-000000?style=for-the-badge&logo=rxjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-00B140?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Backend
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-000000?style=for-the-badge&logo=livewire&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
 ### Tools & Testing
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-000000?style=for-the-badge&logo=vitest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-000000?style=for-the-badge&logo=jest&logoColor=white)
 
 </div>
 
@@ -206,6 +198,16 @@ const jose = {
 
 ---
 
+## 📬 Contact
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing!+%F0%9F%9A%80;Feel+free+to+reach+out+%E2%9C%89%EF%B8%8F" alt="Typing SVG" />
+
+| Channel | Link |
+|---------|------|
+| **LinkedIn** | [jose-valentin-zc](https://www.linkedin.com/in/jose-valentin-zc/) |
+| **Portafolio** | [jose-valentin-zarate.dev.ar](https://jose-valentin-zarate.dev.ar/) |
+| **Email** | [valezarate.9903@gmail.com](mailto:valezarate.9903@gmail.com) |
+
 </div>
+
+
